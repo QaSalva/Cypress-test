@@ -1,7 +1,7 @@
 /// <reference types="cypress" />
 
 
-import {MainPage} from '../fixtures/page-objects/mainshiftcont'
+import {MainPage} from '../fixtures/page-objects/main'
 import {ShiftingContentPage} from '../fixtures/page-objects/shiftingcontent'
 import {MenuElementPage} from '../fixtures/page-objects/menuelement'
 

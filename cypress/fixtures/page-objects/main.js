@@ -8,4 +8,10 @@ clickLoginOption () {
     cy.get(':nth-child(21) > a').click()
 
 }
+
+clickShiftingContentOption () {
+    cy.get(':nth-child(39) > a').click()
+
+}
+
 }
